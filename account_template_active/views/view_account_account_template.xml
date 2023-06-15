@@ -31,7 +31,7 @@ License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl.html).
     </record>
 
     <record
-        id="account_menu.account_account_template_action"
+        id="account_usability.account_account_template_action"
         model="ir.actions.act_window"
     >
         <field name="context">{"active_test": False}</field>
